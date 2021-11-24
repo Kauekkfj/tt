@@ -7,3 +7,6 @@ https://ip230310230.ahcdn.com/key=RojNiXi6im+TI3lHX1i72w,s=,end=1637733651,ip=45
 
 #EXTINF:-1 tvg-logo="" group-title="TVPortuguesa" , infiltrado
 https://ip250112192.ahcdn.com/key=Yrddkf3V766VQ-Nt7b4cug,s=,end=1637733880,ip=45.5,limit=1/state=YZ2dLQUa/buffer=5000000:20029801,7136.6/speed=1000000/referer=none,.moduda.fun,.filmezando.tv,.mmfilmes.io/reftag=263766407/ssd1/443/2/265781822/BR/movies/infiltrado-dub-720p.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="TVPortuguesa" , Sobreviva ao Jogo
+https://ip250112192.ahcdn.com/key=LgZSH1M+7mwRJRvt0vODgw,s=,end=1637734085,ip=45.5,limit=1/state=YZ2eLQUa/buffer=5000000:21466598,5793.5/speed=1000000/referer=none,.moduda.fun,.filmezando.tv,.mmfilmes.io/reftag=263766407/ssd2/443/3/266521113/BR/movies/sobrevivaaojogo-dub-720p.mp4
